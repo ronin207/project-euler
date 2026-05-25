@@ -7,4 +7,7 @@ Quickstart
 [] Problems 1 to 30
 The user can assign their own workload based on their availability, as long as they complete everything by the deadline
 
+But, make sure to commit everyday.
+
 License: MIT
+
